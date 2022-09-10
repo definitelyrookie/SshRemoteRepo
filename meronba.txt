@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 walang madali lalo pag walang pera
+=======
+hello world
+tungaw
+>>>>>>> 88af1ef237b160eb81ee3bed2fbc543c2dbdec55

@@ -1,4 +1,10 @@
 walang madali lalo pag walang pera
+<<<<<<< HEAD
 hello worlds
 tungaws
 
+=======
+hello world
+tungaw
+i dont know man 
+>>>>>>> 7f972a4a4ae642415b6eec79225e9d4dbaa995c3
